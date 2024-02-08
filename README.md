@@ -2,6 +2,6 @@
   "name": "canzulfu",
   "website": "https://github.com/canzulfu",
   "description": "Move Forward",
-  "logo": "https://s3.amazonaws.com/keybase_processed_uploads/8a87a51a1056c508bb76f59a020aec05_360_360.jpg",
+  "logo": "https://keybase.io/images/icons/icon-keybase-logo-48.png",
   "twitter": "https://twitter.com/canzulfu95"
 }
